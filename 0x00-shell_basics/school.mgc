@@ -1,2 +1,2 @@
-0  STRING SCHOOL 
-!: mime data/School  
+0  String SCHOOL School data  
+!:mime School.mgc  
