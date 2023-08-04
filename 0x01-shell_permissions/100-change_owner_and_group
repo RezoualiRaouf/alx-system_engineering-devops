@@ -1,2 +1,3 @@
 #!/bin/bash
-chown vincent . ,chgrp staff .
+find . -maxdepth 1 -exec chown vincent:staff {} +
+
